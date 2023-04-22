@@ -1,8 +1,6 @@
 package sort
 
-import (
-	"github.com/go-go-data-structs/utils"
-)
+import "github.com/go-go-data-structs/utils"
 
 func BubbleSort(s []int) []int {
     iters := 0
